@@ -1,2 +1,2 @@
-# .github
-The Gokkit project README
+# Gokkit
+The Gokkit project
